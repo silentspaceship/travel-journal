@@ -1,0 +1,75 @@
+@import "../theme.css";
+
+.post-container {
+  display: flex;
+  max-width: 800px;
+  gap: 1.25rem;
+
+  align-items: flex-start;
+}
+
+.post-picture-container {
+  flex-shrink: 0;
+  width: 8rem;
+  height: 11rem;
+}
+
+.post-picture {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+
+  border-radius: 0.35rem;
+}
+
+.post-details {
+  color: var(--text);
+}
+
+.location {
+  display: flex;
+  gap: 0.625rem;
+
+  font-size: 0.625rem;
+  font-weight: 400;
+
+  margin-bottom: 0.25rem;
+}
+
+.country-container {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  gap: 0.25rem;
+}
+
+.icon-pin {
+  height: 0.625rem;
+  object-fit: contain;
+}
+
+.country {
+  text-transform: uppercase;
+  letter-spacing: 0.25rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+
+  margin-bottom: 1.5rem;
+}
+
+.period {
+  font-weight: 700;
+  font-size: 0.625rem;
+
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  font-size: 0.625rem;
+  line-height: 150%;
+}
