@@ -49,15 +49,31 @@ export default [
     id: 4,
     location: {
       country: "Brazil",
-      place: "Lençóis Maranhenses National Park",
+      place: "Lencois Maranhenses",
       mapsLink: "/",
     },
-    image: "https://images.unsplash.com/photo-1535489733719-7b6e8dd53160",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
     period: {
       startDate: "2022-01-28",
       endDate: "2022-02-15",
     },
     description:
       "During the rainy season, the valleys among the dunes fill with freshwater lagoons, prevented from draining due to the impermeable rock beneath.",
+  },
+  {
+    id: 5,
+    location: {
+      country: "United States",
+      place: "Hawaii",
+      mapsLink: "/",
+    },
+    image: "https://images.unsplash.com/photo-1562191326-0da0767cfffe",
+    period: {
+      startDate: "2022-05-14",
+      endDate: "2022-06-02",
+    },
+    description:
+      "There’s so much to see and do on the beautiful Island of Hawaii. Whether you have one day or an entire week, make the most of your time visiting the state’s largest and most diverse island.",
   },
 ];
