@@ -21,7 +21,7 @@ export function Post(props) {
             <img className="icon-pin" src={IconPin} alt="Location Pin"></img>
             <p className="country">{props.item.location.country}</p>
           </div>
-          <a href="/">View on Google Maps</a>
+          <a href={props.item.location.mapsLink}>View on Google Maps</a>
         </section>
 
         <h1>{props.item.location.place}</h1>
