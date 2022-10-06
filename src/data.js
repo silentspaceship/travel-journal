@@ -8,6 +8,7 @@ export default [
       mapsLink: "https://goo.gl/maps/xwkpL7gmmfiuiiew9",
     },
     image: "https://images.unsplash.com/photo-1578637387939-43c525550085",
+    placeholderImg: require("./assets/fuji-lq.jpg"),
     period: {
       startDate: "2021-01-12",
       endDate: "2021-01-24",
@@ -23,6 +24,7 @@ export default [
       mapsLink: "https://goo.gl/maps/RvXoCpavEXE4pHZV7",
     },
     image: "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8",
+    placeholderImg: require("./assets/sydney-lq.jpg"),
     period: {
       startDate: "2021-05-27",
       endDate: "2021-06-08",
@@ -38,6 +40,7 @@ export default [
       mapsLink: "https://goo.gl/maps/RBTBWwDAu3ifBhAa9",
     },
     image: "https://images.unsplash.com/photo-1513519107127-1bed33748e4c",
+    placeholderImg: require("./assets/geirangerfjord-lq.jpg"),
     period: {
       startDate: "2021-10-01",
       endDate: "2021-11-18",
@@ -54,6 +57,7 @@ export default [
     },
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+    placeholderImg: require("./assets/maranhao-lq.jpg"),
     period: {
       startDate: "2022-01-28",
       endDate: "2022-02-15",
@@ -69,6 +73,7 @@ export default [
       mapsLink: "https://goo.gl/maps/Af7hm79UREs4v25r5",
     },
     image: "https://images.unsplash.com/photo-1562191326-0da0767cfffe",
+    placeholderImg: require("./assets/hawaii-lq.jpg"),
     period: {
       startDate: "2022-05-14",
       endDate: "2022-06-02",

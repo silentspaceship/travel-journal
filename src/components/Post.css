@@ -22,6 +22,16 @@
   border-radius: 0.35rem;
 }
 
+.loading {
+  filter: blur(5px);
+  clip-path: inset(0);
+}
+
+.loaded {
+  filter: blur(0px);
+  transition: filter 0.5s linear;
+}
+
 .post-details {
   color: var(--text);
 }

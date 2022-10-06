@@ -1,5 +1,7 @@
 import React from "react";
 
+import { ProgressiveImg } from "./ProgressiveImg";
+
 import "./Post.css";
 
 import IconPin from "../assets/location-pin.svg";
@@ -8,10 +10,15 @@ export function Post(props) {
   return (
     <article className="post-container">
       <div className="post-picture-container">
-        <img
+        {/* <img
           className="post-picture"
           src={props.item.image}
           alt={props.item.location.place}
+        /> */}
+        <ProgressiveImg
+          src={props.item.image}
+          alt={props.item.location.place}
+          placeholderSrc={props.item.placeholderImg}
         />
       </div>
 
