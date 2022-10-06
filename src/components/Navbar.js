@@ -2,7 +2,7 @@ import React from "react";
 
 import Logo from "../assets/planet-earth.svg";
 
-import "./Navbar.css";
+import "./Navbar.scss";
 
 export function Navbar() {
   return (

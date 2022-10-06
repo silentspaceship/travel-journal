@@ -2,7 +2,7 @@ import React from "react";
 
 import { ProgressiveImg } from "./ProgressiveImg";
 
-import "./Post.css";
+import "./Post.scss";
 
 import IconPin from "../assets/location-pin.svg";
 

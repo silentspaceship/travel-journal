@@ -1,4 +1,4 @@
-@import "../theme.css";
+@use "../theme.scss";
 
 .post-container {
   display: flex;
@@ -29,11 +29,11 @@
 
 .loaded {
   filter: blur(0px);
-  transition: filter 0.5s linear;
+  transition: filter 0.4s linear;
 }
 
 .post-details {
-  color: var(--text);
+  color: theme.$text;
 }
 
 .location {
