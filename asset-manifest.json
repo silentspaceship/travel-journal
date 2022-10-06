@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/travel-journal/static/css/main.0299f4b8.css",
-    "main.js": "/travel-journal/static/js/main.109f58b1.js",
+    "main.css": "/travel-journal/static/css/main.7f86e417.css",
+    "main.js": "/travel-journal/static/js/main.df00b576.js",
+    "static/media/hawaii-lq.jpg": "/travel-journal/static/media/hawaii-lq.6bdb6cb658f2c3c594b0.jpg",
+    "static/media/maranhao-lq.jpg": "/travel-journal/static/media/maranhao-lq.c1804ecf0322f96379ca.jpg",
+    "static/media/sydney-lq.jpg": "/travel-journal/static/media/sydney-lq.a9bdc21cf7de747b53a4.jpg",
+    "static/media/geirangerfjord-lq.jpg": "/travel-journal/static/media/geirangerfjord-lq.97615debd85268e92652.jpg",
     "static/media/planet-earth.svg": "/travel-journal/static/media/planet-earth.a892be4bbf39293699cdbb7cc16fab83.svg",
     "index.html": "/travel-journal/index.html",
     "static/media/location-pin.svg": "/travel-journal/static/media/location-pin.2cf11fde0431bafeff2190a96bc8f6d9.svg",
-    "main.0299f4b8.css.map": "/travel-journal/static/css/main.0299f4b8.css.map",
-    "main.109f58b1.js.map": "/travel-journal/static/js/main.109f58b1.js.map"
+    "main.7f86e417.css.map": "/travel-journal/static/css/main.7f86e417.css.map",
+    "main.df00b576.js.map": "/travel-journal/static/js/main.df00b576.js.map"
   },
   "entrypoints": [
-    "static/css/main.0299f4b8.css",
-    "static/js/main.109f58b1.js"
+    "static/css/main.7f86e417.css",
+    "static/js/main.df00b576.js"
   ]
 }
