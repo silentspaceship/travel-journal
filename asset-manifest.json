@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/travel-journal/static/css/main.7f86e417.css",
+    "main.css": "/travel-journal/static/css/main.8e54ef8e.css",
     "main.js": "/travel-journal/static/js/main.df00b576.js",
     "static/media/hawaii-lq.jpg": "/travel-journal/static/media/hawaii-lq.6bdb6cb658f2c3c594b0.jpg",
     "static/media/maranhao-lq.jpg": "/travel-journal/static/media/maranhao-lq.c1804ecf0322f96379ca.jpg",
@@ -9,11 +9,11 @@
     "static/media/planet-earth.svg": "/travel-journal/static/media/planet-earth.a892be4bbf39293699cdbb7cc16fab83.svg",
     "index.html": "/travel-journal/index.html",
     "static/media/location-pin.svg": "/travel-journal/static/media/location-pin.2cf11fde0431bafeff2190a96bc8f6d9.svg",
-    "main.7f86e417.css.map": "/travel-journal/static/css/main.7f86e417.css.map",
+    "main.8e54ef8e.css.map": "/travel-journal/static/css/main.8e54ef8e.css.map",
     "main.df00b576.js.map": "/travel-journal/static/js/main.df00b576.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f86e417.css",
+    "static/css/main.8e54ef8e.css",
     "static/js/main.df00b576.js"
   ]
 }
